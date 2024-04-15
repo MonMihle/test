@@ -95,7 +95,7 @@ export default function Weather() {
         </div>
       </div>
       <small>
-        <a href="https://github.com/MonMihle/weather-app">Open-source code</a>
+        <a href="https://github.com/MonMihle/test">Open-source code</a>
         by Monica Mntanywa
       </small>
     </div>
